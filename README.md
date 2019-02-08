@@ -25,3 +25,8 @@ Default prefix is `h]`
 ## Pictures/Examples
 ![Image](https://austin-serves-the.yiff.church/i/s8mva0np.png "command")
 ![Image](https://austin-serves-the.yiff.church/i/g2kiq2nh.png "daily")
+
+
+## Disclaimer
+Holidays listed are largely US and international only. This is nothing I can really control, as there lacks a good holiday database I can use like this. However, every holiday listed is legally recognized by SOMEONE
+But hey, the world is so globalized now, does it really matter?
