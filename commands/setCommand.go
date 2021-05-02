@@ -3,10 +3,6 @@ package commands
 import "github.com/AustinTi/HolidayBot/db"
 
 func setCommand(p Params) bool {
-	if len(p.Args) < 3 {
-		p.Args = append(p.Args, "")
-	}
-
 	var newCommand bool
 	switch p.Args[2] {
 	case "on", "true":

@@ -9,7 +9,7 @@ import (
 	"github.com/AustinTi/HolidayBot/db"
 	"github.com/AustinTi/HolidayBot/misc"
 
-	"github.com/robfig/cron"
+	"github.com/robfig/cron/v3"
 
 	"github.com/bwmarrin/discordgo"
 )

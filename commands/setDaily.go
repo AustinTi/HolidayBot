@@ -3,10 +3,6 @@ package commands
 import "github.com/AustinTi/HolidayBot/db"
 
 func setDaily(p Params) bool {
-	if len(p.Args) < 3 {
-		p.Args = append(p.Args, "")
-	}
-
 	var newDaily bool
 	switch p.Args[2] {
 	case "on", "true":
